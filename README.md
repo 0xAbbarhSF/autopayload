@@ -10,7 +10,7 @@ feel free  edit the script,😳🤓
 
 ## Installation in Termux⚫⚪
 
-> git clone https://github.com/AbbarhSF/autopayload
+> git clone https://github.com/0xAbbarhSF/autopayload
 
 > cd autopayload
 
@@ -24,5 +24,5 @@ feel free  edit the script,😳🤓
 * Thanks to allah swa
 * Thanks to my phone and my internet,
 
-* contact me @ FACEBOOK        Star Ford♂️
+* contact me @ FACEBOOK        Abbarh Issarh♂️
 
