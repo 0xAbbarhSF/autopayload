@@ -3,8 +3,8 @@ clear
 echo "################№#################"
 echo "#  SCRIPT FOR LAUNCHUNG MSFVENOM #"
 echo "#    auto create payload         #"
-echo -e "#\e[1;31m @autor [*] 艾 Star Ford 艾\e[0m   #"
-echo "# github = github.com/Star-Ford   #"
+echo -e "#\e[1;31m @autor [*] 0xAbbarhSF\e[0m   #"
+echo "# github = github.com/0xAbbarhSF   #"
 echo "#########################№#№##№##№"
 echo ""
 echo -e "\e[1;31m LaUnchInG msfvenom.............\e[0m"
@@ -40,7 +40,7 @@ else:
    exit()
 fi
 
-#my git ripo https://github.com/Z3r0-404
+#my git ripo https://github.com/0xAbbarhSF
 #facebook    Abbah Isah
 #insagram    Abba_0x2
 #thanks to ALLAH SWA
